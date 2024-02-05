@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleGetInfoString</key>
+	<string></string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>InriaSerif-Regular.ttf</string>
+		<string>InriaSerif-BoldItalic.ttf</string>
+		<string>InriaSerif-Bold.ttf</string>
+		<string>AbhayaLibre-ExtraBold.ttf</string>
+	</array>
+</dict>
+</plist>
